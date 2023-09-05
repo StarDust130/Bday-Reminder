@@ -1,5 +1,7 @@
 # Birthday Reminder🎂
 
+## [See Live](https://harmonious-marigold-6b542d.netlify.app/)
+
 
 ## This is a simple web application that displays a list of birthdays for the current day. It allows users to keep track of their friends' and family members' birthdays and never forget to wish them a happy birthday again!
 
